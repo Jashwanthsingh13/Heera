@@ -13,7 +13,7 @@ include("functions/functions.php");
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ganpati Cosmetics</title>
+    <title>Heera</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -37,7 +37,7 @@ include("functions/functions.php");
 
 <div class="header-1">
 
-    <a href="index.php" class="logo" > <img src="website/all/logo5.svg" alt="Logo image" class="hidden-xs">  </a>
+    <a href="index.php" class="logo" > <img src="website/all/heera.jpg" alt="Logo image" class="hidden-xs">  </a>
                                
 <div class="col-md-6 offer">
     <a href="#" class="btn btn-sucess btn-sm">
